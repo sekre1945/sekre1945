@@ -1,43 +1,50 @@
+
 <h1 align="center">FiqXploit</h1>
-<p align="center">Cyber Security • Python Developer • Research</p>
+<p align="center">
+Cyber Security Research • Python Automation • Educational Projects
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Security+Research;Python+Automation;Controlled+Testing+Environment" />
+</p>
 
 ---
 
-## About
+## Profile
 
-Focused on cybersecurity research and Python-based automation tools.  
-Building projects for educational and testing environments.
-
----
-
-## Selected Projects
-
-### code
-Funny experimental tool  
-https://github.com/sekre1945/code
-
-### grabber
-URL collection & parsing script  
-https://github.com/sekre1945/grabber
-
-### wpxf
-WordPress testing framework  
-https://github.com/sekre1945/wpxf
-
-### WPS
-Security-related WordPress testing repository  
-https://github.com/sekre1945/WPS
+Focused on cybersecurity research and automation development using Python.  
+All projects are created for controlled environments and educational purposes.
 
 ---
 
-## Tech Stack
+## Core Repositories
 
-![Tech](https://skillicons.dev/icons?i=python,bash,linux,git,github)
+| Project | Description |
+|---------|------------|
+| [code](https://github.com/sekre1945/code) | Experimental & humorous utility tool |
+| [grabber](https://github.com/sekre1945/grabber) | URL collection and parsing script |
+| [wpxf](https://github.com/sekre1945/wpxf) | WordPress testing framework |
+| [WPS](https://github.com/sekre1945/WPS) | WordPress-related security research |
 
 ---
 
-## Stats
+## Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sekre1945&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekre1945&layout=compact&theme=dark&hide_border=true)
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sekre1945&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekre1945&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sekre1945&color=grey&style=flat" />
+</p>
