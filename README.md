@@ -1,50 +1,95 @@
+<div align="center">
 
-<h1 align="center">FiqXploit</h1>
-<p align="center">
-Cyber Security Research • Python Automation • Educational Projects
-</p>
+# FiqXploit
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Security+Research;Python+Automation;Controlled+Testing+Environment" />
-</p>
+Cyber Security Research • Python Automation • Controlled Testing Environment
+
+</div>
 
 ---
 
-## Profile
+<div align="center">
 
-Focused on cybersecurity research and automation development using Python.  
-All projects are created for controlled environments and educational purposes.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=120&section=header"/>
+
+</div>
+
+<br>
+
+## Overview
+
+Security-focused developer building automation and testing tools in controlled environments.  
+Primary stack revolves around Python and Linux-based systems.
 
 ---
 
-## Core Repositories
+## Projects
 
-| Project | Description |
-|---------|------------|
-| [code](https://github.com/sekre1945/code) | Experimental & humorous utility tool |
-| [grabber](https://github.com/sekre1945/grabber) | URL collection and parsing script |
-| [wpxf](https://github.com/sekre1945/wpxf) | WordPress testing framework |
-| [WPS](https://github.com/sekre1945/WPS) | WordPress-related security research |
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### code
+Experimental and humorous utility tool  
+<a href="https://github.com/sekre1945/code">Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### grabber
+URL collection and parsing script  
+<a href="https://github.com/sekre1945/grabber">Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### wpxf
+WordPress testing framework  
+<a href="https://github.com/sekre1945/wpxf">Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### WPS
+WordPress security research  
+<a href="https://github.com/sekre1945/WPS">Repository</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github" />
+
+</div>
 
 ---
 
-## GitHub Analytics
+## Analytics
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sekre1945&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekre1945&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
-</p>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sekre1945&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekre1945&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sekre1945&color=grey&style=flat" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=120&section=footer"/>
+
+</div>
